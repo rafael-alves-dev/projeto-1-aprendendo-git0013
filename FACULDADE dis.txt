@@ -1,0 +1,25 @@
+
+
+Os projetos de Tecnologia da Informação têm características especiais que os tornam diferentes das atividades de rotina. Aqui estão as principais características dos projetos:
+
+Objetivo claro: Um projeto precisa ter um objetivo definido e mensurável para saber o que precisa ser alcançado.
+
+Temporário: Um projeto tem um início e um fim determinados. Não é uma atividade contínua, tem um prazo para ser concluído.
+
+Único: Cada projeto é diferente, mesmo que sejam parecidos. Eles têm particularidades como localização, requisitos e pessoas envolvidas.
+
+Envolvimento de diferentes áreas: Os projetos de TI envolvem profissionais de diversas áreas, como desenvolvedores, especialistas em segurança, analistas de dados e gerentes de projetos.
+
+Restrições: Os projetos são limitados por prazo, orçamento, recursos e qualidade. É necessário gerenciar essas restrições adequadamente.
+
+Riscos: Os projetos têm incertezas e riscos associados a eles, como problemas técnicos, requisitos mal definidos ou falta de recursos. É importante identificar, avaliar e reduzir esses riscos.
+
+Equipe temporária: Os projetos são realizados por equipes temporárias que são montadas especificamente para o projeto e desfeitas após sua conclusão.
+
+Ciclo de vida: Os projetos passam por diferentes fases, desde a ideia até a conclusão. Cada fase tem seus próprios objetivos e tarefas específicas.
+
+Partes interessadas: Os projetos envolvem diferentes pessoas interessadas, como clientes, usuários finais e fornecedores. É importante envolver e atender às necessidades dessas pessoas ao longo do projeto.
+
+Resultados: Os projetos têm como objetivo entregar resultados tangíveis e mensuráveis. O sucesso é medido pela realização dos objetivos estabelecidos e pela satisfação das partes interessadas.
+
+Entender essas características ajuda no planejamento e no gerenciamento dos projetos de TI, aumentando as chances de sucesso na entrega das soluções tecnológicas.
